@@ -1,0 +1,9 @@
+c:\users\dzeki\documents\visual studio 2015\Projects\Priprema_ispit\Priprema_ispit\bin\Debug\Priprema_ispit.exe.config
+c:\users\dzeki\documents\visual studio 2015\Projects\Priprema_ispit\Priprema_ispit\bin\Debug\Priprema_ispit.exe
+c:\users\dzeki\documents\visual studio 2015\Projects\Priprema_ispit\Priprema_ispit\bin\Debug\Priprema_ispit.pdb
+c:\users\dzeki\documents\visual studio 2015\Projects\Priprema_ispit\Priprema_ispit\obj\Debug\Priprema_ispit.csprojResolveAssemblyReference.cache
+c:\users\dzeki\documents\visual studio 2015\Projects\Priprema_ispit\Priprema_ispit\obj\Debug\Priprema_ispit.Form1.resources
+c:\users\dzeki\documents\visual studio 2015\Projects\Priprema_ispit\Priprema_ispit\obj\Debug\Priprema_ispit.Properties.Resources.resources
+c:\users\dzeki\documents\visual studio 2015\Projects\Priprema_ispit\Priprema_ispit\obj\Debug\Priprema_ispit.csproj.GenerateResource.Cache
+c:\users\dzeki\documents\visual studio 2015\Projects\Priprema_ispit\Priprema_ispit\obj\Debug\Priprema_ispit.exe
+c:\users\dzeki\documents\visual studio 2015\Projects\Priprema_ispit\Priprema_ispit\obj\Debug\Priprema_ispit.pdb
